@@ -7,6 +7,6 @@
  ### Steps
  1. Go to [about:support](about:support), open the profile folder
  2. From that directory, make chrome folder if it doesn't exist
- 3. Download the gloxskin.zip file, unzip all it contents to the chrome folder
+ 3. Download the [gloxskin.zip](https://github.com/tomatopickle/Glox/blob/main/gloxskin.zip) file, unzip all it contents to the chrome folder
  4. Restart Firefox
  
