@@ -1,0 +1,74 @@
+@-moz-document url(about:home),
+url(about:newtab),
+url(about:privatebrowsing) {
+
+    .click-target-container *,
+    .top-sites-list * {
+        color: #fff !important;
+        text-shadow: 2px 2px 2px #222 !important;
+    }
+
+    .outer-wrapper.newtab-experience .search-wrapper .search-handoff-button,
+    .outer-wrapper.newtab-experience .search-wrapper input {
+        background: #38383D70 var(--newtab-search-icon) 5px center no-repeat !important;
+        backdrop-filter: blur(40px) !important;
+        border-radius: 75px !important;
+    }
+
+    body::before {
+        content: "";
+        z-index: -1;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: no-repeat url(bg.jpg) center;
+        background-size: cover;
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .info {
+        background-color: rgba(0, 0, 0, 0.39);
+        backdrop-filter: blur(5px);
+    }
+
+    .top-site-outer .top-site-icon {
+        background-color: transparent !important;
+    }
+
+    .outer-wrapper.newtab-experience .top-site-outer .tile {
+        background-color: transparent !important;
+        box-shadow: none !important;
+    }
+
+    .context-menu {
+        background: #2A2A2DC9 !important;
+        backdrop-filter: blur(12px) !important;
+    }
+
+    .customize-menu {
+        background-color: #242426D1 !important;
+        backdrop-filter: blur(15px) !important;
+    }
+}
+@-moz-document url("chrome://global/content/alerts/alert.xhtml") {
+  #alertBox {
+    border-color: rgba(107,107,107,.3) !important;
+    background-color: rgb(43,42,51) !important;
+    color: rgba(215,215,215,.9) !important;
+  }
+  #alertSettings {
+    -moz-context-properties: fill, fill-opacity !important;
+    padding: 3px !important;
+    margin: 0px 2px -3px 0px !important;
+    color: inherit !important;
+    border-radius: 2px !important;
+    transform: scale(0.91, 0.91) !important;
+  }
+  #alertSettings:hover,  #alertSettings[open] {
+    background-color: rgba(215,215,215,.1) !important;
+  }
+  #alertSourceLabel {
+    color: rgb(5,209,241) !important;
+  }
+}
