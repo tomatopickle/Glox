@@ -23,7 +23,9 @@
 <h3>Big Sur light</h3>
  <img src="https://raw.githubusercontent.com/tomatopickle/Glox/main/screenshots/themes/big-sur-light/newtab.PNG" alt="Big Sur Light"/>
 <p align="center"><a href="https://github.com/tomatopickle/Glox/blob/main/screenshots/themes/big-sur-light/bg.jpg">Download</a></p>
-<br>
 <h3>Big Sur Dark</h3>
 <img src="https://raw.githubusercontent.com/tomatopickle/Glox/main/screenshots/themes/big-sur-dark/newtab.jpg" alt="Big Sur Dark"/>
 <p align="center"><a href="https://github.com/tomatopickle/Glox/blob/main/screenshots/themes/big-sur-dark/bg.jpg">Download</a></p>
+<h3>Opera Pink</h3>
+<img src="https://raw.githubusercontent.com/tomatopickle/Glox/main/screenshots/themes/opera-pink/newtab.PNG" alt="Opera Pink"/>
+<p align="center"><a href="https://raw.githubusercontent.com/tomatopickle/Glox/main/screenshots/themes/opera-pink/bg.jpg">Download</a></p>
