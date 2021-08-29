@@ -20,5 +20,10 @@
 - It's recommended to use Firefox's default dark theme with this skin
 
 ## Other backgrounds
-![Dark Big Sur](https://raw.githubusercontent.com/tomatopickle/Glox/main/screenshots/themes/big-sur-dark/newtab.jpg)
-<p align="center"><a href="https://github.com/tomatopickle/Glox/blob/main/screenshots/themes/big-sur-dark/bg.jpg">Source</a></p>
+<h3>Big Sur light</h3>
+ <img src="https://raw.githubusercontent.com/tomatopickle/Glox/main/screenshots/themes/big-sur-light/newtab.PNG" alt="Big Sur Light"/>
+<p align="center"><a href="https://github.com/tomatopickle/Glox/blob/main/screenshots/themes/big-sur-light/bg.jpg">Download</a></p>
+<br>
+<h3>Big Sur Dark</h3>
+<img src="https://raw.githubusercontent.com/tomatopickle/Glox/main/screenshots/themes/big-sur-dark/newtab.jpg" alt="Big Sur Dark"/>
+<p align="center"><a href="https://github.com/tomatopickle/Glox/blob/main/screenshots/themes/big-sur-dark/bg.jpg">Download</a></p>
