@@ -32,4 +32,4 @@
 <img src="https://raw.githubusercontent.com/tomatopickle/Glox/main/screenshots/themes/opera-blue/newtab.PNG" alt="Opera Pink"/>
 <p align="center"><a href="https://github.com/tomatopickle/Glox/blob/main/screenshots/themes/opera-blue/bg.jpg">Download</a></p>
 <h2>Credits</h2>
-Thanks you [Unnat_297](https://www.reddit.com/u/Unnat_297/), for giving me the name for this skin
+Thank you <a href="https://www.reddit.com/u/Unnat_297/">Unnat_297</a>, for giving me the name for this skin
