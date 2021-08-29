@@ -16,6 +16,7 @@
 ### Note
 - You can change the bg.jpg in your chrome folder to any image you prefer
 - It's recommended to use Firefox's default dark theme with this skin
+- To truly get the blended background effect, remove the bookmarks toolbar by going to View > Toolbars > Bookmarks Toolbar > , place your bookmarks next to the search bar by dragging them in using the cutomize toolbar option. As shown in [this image](https://raw.githubusercontent.com/tomatopickle/Glox/main/screenshots/newtab.PNG)
 
 ## Other backgrounds
 <h3>Big Sur light</h3>
