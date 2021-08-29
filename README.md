@@ -1,6 +1,8 @@
 # Glox. Firefox, but better
 ![New Tab](https://raw.githubusercontent.com/tomatopickle/Glox/main/screenshots/newtab.PNG)
-#### [More screenshots ↗](https://github.com/tomatopickle/Glox/tree/main/screenshots)
+#### [More screenshots](https://github.com/tomatopickle/Glox/tree/main/screenshots)
+## About
+#### This skin makes use of [glassmorphism](https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9?gi=505b8b61b4df), also makes most parts of the UI round. It also has a blended background (doesn't work with all backgrounds).
 ## Installation
 ###### Warning: This skin uses the [backdrop-filter](https://caniuse.com/?search=backdrop-filter) property which is still expermental in Firefox
  ### Requirements: 
