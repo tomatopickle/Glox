@@ -9,4 +9,6 @@
  2. From that directory, make chrome folder if it doesn't exist
  3. Download the [gloxskin.zip](https://github.com/tomatopickle/Glox/blob/main/gloxskin.zip) file, unzip all it contents to the chrome folder
  4. Restart Firefox
- 
+
+### Note
+You can change the bg.jpg in your chrome folder to any image you prefer
