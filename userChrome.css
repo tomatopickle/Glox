@@ -58,10 +58,6 @@ toolbar .toolbarbutton-1:not([disabled="true"], [checked], [open], :active):hove
     background-color: #00000045 !important;
 }
 
-#PersonalToolbar {
-    display: none !important;
-}
-
 #navigator-toolbox {
     background: no-repeat url(bg.jpg) !important;
     background-size: cover !important;
