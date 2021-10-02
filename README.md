@@ -7,7 +7,7 @@
 ###### Warning: This skin uses the [backdrop-filter](https://caniuse.com/?search=backdrop-filter) property which is still expermental in Firefox
 
  ### Steps
- 1. Set `toolkit.legacyUserProfileCustomizations.stylesheets` and `layout.css.backdrop-filter.enabled`
+ 1. Set `toolkit.legacyUserProfileCustomizations.stylesheets` and `layout.css.backdrop-filter.enabled` to true in about:config
  2. Go to [about:support](about:support), open the profile folder
  3. From that directory, make chrome folder if it doesn't exist
  4. Download the [gloxskin.zip](https://github.com/tomatopickle/Glox/blob/main/gloxskin.zip) file, unzip all it contents to the chrome folder
