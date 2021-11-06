@@ -8,8 +8,7 @@ url(about:privatebrowsing) {
         text-shadow: 2px 2px 2px #222 !important;
     }
 
-    .outer-wrapper.newtab-experience .search-wrapper .search-handoff-button,
-    .outer-wrapper.newtab-experience .search-wrapper input {
+    .search-wrapper .search-handoff-button,.search-wrapper .search-handoff-button input {
         background: #38383D70 var(--newtab-search-icon) 5px center no-repeat !important;
         backdrop-filter: blur(40px) !important;
         border-radius: 75px !important;
@@ -36,7 +35,7 @@ url(about:privatebrowsing) {
         background-color: transparent !important;
     }
 
-    .outer-wrapper.newtab-experience .top-site-outer .tile {
+    .top-site-outer .tile {
         background-color: transparent !important;
         box-shadow: none !important;
     }
@@ -50,6 +49,9 @@ url(about:privatebrowsing) {
         background-color: #242426D1 !important;
         backdrop-filter: blur(15px) !important;
     }
+   .top-sites-list:not(.dnd-active) .top-site-outer:is(.active, :focus, :hover):hover{
+        background: rgba(43, 42, 51, 0.57) !important;
+   }
 }
 @-moz-document url("chrome://global/content/alerts/alert.xhtml") {
   #alertBox {
