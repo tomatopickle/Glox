@@ -1,3 +1,5 @@
+| :exclamation:Warning: This skin won't work with Firefox 96, Please [read this comment](https://github.com/tomatopickle/Glox/issues/2#issuecomment-1015426651)  |
+|-----------------------------------------|
 # Glox. Firefox, but better
 ![New Tab](https://raw.githubusercontent.com/tomatopickle/Glox/main/screenshots/newtab.PNG)
 #### [More screenshots](https://github.com/tomatopickle/Glox/tree/main/screenshots)
